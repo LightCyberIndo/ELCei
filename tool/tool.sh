@@ -45,7 +45,7 @@ read -p "╚═══════════════➢➢ " pil
 if [ $pil = '1' ]
 then
 cd tool
-python2 CRYjeVil.py
+python2 SoDark.py
 fi
 if [ $pil = '2' ]
 then
