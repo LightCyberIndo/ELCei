@@ -9,4 +9,4 @@ $ cd ELCei
 $ chmod 777 ELCei.sh
 $ sh ELCei.sh
 
-# This tool use username & password, and you must downloads it
+# This tool use username & password, and you must download it
