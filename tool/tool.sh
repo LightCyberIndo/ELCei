@@ -38,12 +38,12 @@ echo $pur"║$pu 4$pur  ║"$pu "Decompile Bash"
 echo $pur"║$pu 5$pur  ║"$pu "Decompile Python"
 echo $pur"║$pu 6$pur  ║"$pu "Deface Tebas Index ez methode$i (webdav)"
 echo $pur"║$pu 7$pur  ║"$pu "Tombol kiri kanan Termux"
-echo $pur"║$pu 8$pur  ║"$me "Coming Soon..."
-echo $pur"║$pu 9$pur  ║"$mw "Coming Soon..."
+echo $pur"║$pu 8$pur  ║"$pur "Coming Soon..."
+echo $pur"║$pu 9$pur  ║"$pur "Coming Soon..."
 echo $pur"║$pu 00$pur ║"$pu "Exit / Keluar tools"
 echo $pur"╚════╝"
 echo
-echo $pur"╔═══$pu Choose$bi ════"
+echo $pur"╔═══$pu Choose$pur ════"
 read -p "╚═══════════════➢➢ " pil
 
 if [ $pil = '1' ]
