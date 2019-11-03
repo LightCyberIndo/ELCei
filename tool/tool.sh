@@ -39,7 +39,7 @@ echo $pur"║$pu 5$pur  ║"$pu "Decompile Python"
 echo $pur"║$pu 99$pur ║"$pu "Exit / Keluar tools"
 echo $pur"╚════╝"
 echo
-echo $pur"╔═══$pu Choose$bi ════"
+echo $pur"╔═══$pu Choose$pur ════"
 read -p "╚═══════════════➢➢ " pil
 
 if [ $pil = '1' ]
