@@ -37,6 +37,8 @@ os.system('pkg install python')
 os.system('pkg install nano')
 os.system('pkg install neofetch')
 os.system('pip2 install lolcat')
+os.system('pkg install figlet')
+os.system('pkg install toilet')
 
 print ("Penginstalan selesai")
 print ("Silahkan kembali ke tool ELCei")
