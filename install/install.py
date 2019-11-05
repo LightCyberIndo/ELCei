@@ -39,6 +39,8 @@ os.system('pkg install neofetch')
 os.system('pip2 install lolcat')
 os.system('pkg install figlet')
 os.system('pkg install toilet')
+os.system('pkg install wget')
+os.system('pkg install ssh')
 
 print ("Penginstalan selesai")
 print ("Silahkan kembali ke tool ELCei")
