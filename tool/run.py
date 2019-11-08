@@ -19,7 +19,7 @@ babi('Hargai author')
 babi(' karena memakai, tidak sesulit membuat >_<')
 print
 print
-babi('Untuk versi kali ini ada 15 tools, dan akan')
+babi('Untuk versi kali ini ada 18 tools, dan akan')
 babi(' terus update, jadi nantikan update selanjutnya')
 babi('...........')
 
