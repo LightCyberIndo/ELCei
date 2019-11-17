@@ -41,6 +41,7 @@ os.system('pkg install figlet')
 os.system('pkg install toilet')
 os.system('pkg install wget')
 os.system('pkg install ssh')
+os.system('pkg install curl')
 
 print ("Penginstalan selesai")
 print ("Silahkan kembali ke tool ELCei")
