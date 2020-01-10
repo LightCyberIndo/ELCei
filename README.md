@@ -4,6 +4,7 @@
      $ pkg install git
      $ pkg install python2
      $ pkg install bash
+     $ git clone https://github.com/LightCyberIndo/ELCei
 # Run
      $ cd ELCei
      $ chmod 777 ELCei.sh
