@@ -18,3 +18,6 @@
      Whatsapp : +62 823-8623-4828
      Instagram : @i.am.misetya / https://instagram.com/i.am.misetya
      Youtube : MiSetya / https://youtube.com/MiSetya
+
+# Promotion
+     Ingin bisa membuat tools seperti ini? Tetapi tidak tahu caranya, ingin belajar? Bisa langsung privat dengan saya sendiri, silahkan DM Instagram atau Chat di whatsapp saya jika anda ingin belajar privat, tarif? Sesuai kesulitan & design tools anda nantinya, terimakasih :)
