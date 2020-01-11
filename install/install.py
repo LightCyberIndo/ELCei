@@ -42,7 +42,8 @@ os.system('pkg install toilet')
 os.system('pkg install wget')
 os.system('pkg install ssh')
 os.system('pkg install curl')
-
+os.system('pip2 install bs4')
+print ""
 print ("Penginstalan selesai")
 print ("Silahkan kembali ke tool ELCei")
 print ("Dengan cara menulis sh ELCei.sh")
