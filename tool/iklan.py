@@ -1,7 +1,5 @@
 import os,sys,time
 
-os.system('clear')
-
 def babi(nob):
   for e in nob:
     sys.stdout.write(e)
