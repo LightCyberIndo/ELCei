@@ -20,4 +20,11 @@
      Youtube : MiSetya / https://youtube.com/MiSetya
 
 # Promotion
-     Ingin bisa membuat tools seperti ini? Tetapi tidak tahu caranya, ingin belajar? Bisa langsung privat dengan saya sendiri, silahkan DM Instagram atau Chat di whatsapp saya jika anda ingin belajar privat, tarif? Sesuai kesulitan & design tools anda nantinya, terimakasih :)
+     Ingin bisa membuat tools seperti ini? Tetapi tidak tahu caranya,
+     ingin belajar? Bisa langsung privat dengan saya sendiri, silahkan
+     DM Instagram atau Chat di whatsapp saya jika anda ingin belajar
+     privat, tarif? Sesuai kesulitan & design tools anda nantinya,
+     terimakasih :)
+
+     Note : Hanya untuk region Indonesia
+            (Only for region Indonesia)
