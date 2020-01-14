@@ -15,9 +15,14 @@
      jimmisetiawan54@gmail.com
 
 # Social Media
-     Whatsapp : +62 823-8623-4828
+     Github : https://github.com/MiSetya
+     Telegram: t.me/misetya
      Instagram : @i.am.misetya / https://instagram.com/i.am.misetya
      Youtube : MiSetya / https://youtube.com/MiSetya
+
+# Donate
+     Paypal : jimmisetiawan54@gmail.com
+     Pulsa : 0823-8623-4828 (Telkomsel)
 
 # Promotion
      Ingin bisa membuat tools seperti ini? Tetapi tidak tahu caranya,
