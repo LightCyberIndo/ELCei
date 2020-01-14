@@ -19,13 +19,13 @@ print
 babi('usaha mencari username & passwordnya sendiri')
 print
 print
-babi('Hargai author')
-babi(' karena memakai, tidak sesulit membuat >_<')
+babi('Hargai author karena memakai, tidak sesulit membuat >_<')
 print
 print
-babi('Versi kali ini ada 26 tools, dan memperbaiki tool yang rusak')
-babi(' tool ini akan terus update, jadi nantikan update selanjutnya')
-babi('...........')
+babi('Versi kali ini ada 28 tools...')
+print ""
+babi('Catatan : Tidak semua tools yang saya masukkan itu terjamin work, ingat pembuat tools juga manusia bukan robot yang selalu benar')
+babi('...............')
 
 os.system('sh login.sh')
 
